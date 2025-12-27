@@ -15,11 +15,12 @@ This repository may include:
 ## 📬 Contributing
 
 Found a typo or want to suggest an improvement, dont be shy contact us 
-if you would like donate money to support Nexalexica please use this crypto wallet 
+if you would like donate money to support Nexalexica please use one of those 
 
-Solana : 4q8LAEcr6E9JgJTPbfc56FHqn2LHURfouE6GF66AjDDf
-Ethereum : 0x4485Ff2B400761aACd81536E9186f782f764b0a2
-Bitcoin : bc1q7fvjn87lgzf64nn2yy4a2d248tp7aztdzuv5vf
+crypto wallet:
+- Solana : 4q8LAEcr6E9JgJTPbfc56FHqn2LHURfouE6GF66AjDDf
+- Ethereum : 0x4485Ff2B400761aACd81536E9186f782f764b0a2
+- Bitcoin : bc1q7fvjn87lgzf64nn2yy4a2d248tp7aztdzuv5vf
 ---
 
 Thank you for supporting Nexalexica!
